@@ -16,14 +16,18 @@ The application utilizes Node.js and MySQL to query and route data between the d
 ## Application Screenshot
 
 ![Eat-Da-Burger App](./assets/images/Eat-Da-Burger.png)
+
 _Screenshot of the Burger Application_
 
 ![Eat-Da-Burger App Gif](./assets/gifs/Eat-Da-Burger!.gif)
+
 _Gif of the application features_
 
 ## Installation
 
 There is no installation required for this application as it is hosted on Heroku at the following link: [Eat-Da-Burger](https://quiet-fortress-08480.herokuapp.com/).
+
+The project files for this application can be found on my GitHub Repository at [ntch2000/burger](https://github.com/ntch2000/burger).
 
 ## Usage
 
