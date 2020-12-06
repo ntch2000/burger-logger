@@ -1,5 +1,5 @@
 .bgColor {
-  background-color: rgb(255, 187, 0);
+  background-color: #ffbb00;
 }
 
 img {
@@ -21,12 +21,21 @@ li {
   font-weight: bold;
 }
 
-.create-update-form {
-  padding: 5px;
-  margin: 5px;
-  background: aqua;
-}
-
 .form-group {
   margin-bottom: 5px;
+}
+
+.list-group-item {
+  background-color: #ffedcb;
+  color: #005249;
+}
+
+.btn-outline-danger {
+  border-color: #aa8d5d;
+  color: #aa8d5d;
+}
+
+.btn-outline-danger:hover {
+  background-color: #aa8d5d;
+  border-color: #aa8d5d;
 }
