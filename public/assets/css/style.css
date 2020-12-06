@@ -1,3 +1,7 @@
+body {
+  font-family: "Chicle", cursive;
+}
+
 .bgColor {
   background-color: #ffbb00;
 }
@@ -28,14 +32,22 @@ li {
 .list-group-item {
   background-color: #ffedcb;
   color: #005249;
+  font-family: "Goblin One", cursive;
+  font-stretch: expanded;
 }
 
 .btn-outline-danger {
   border-color: #aa8d5d;
   color: #aa8d5d;
+  font-weight: bold;
 }
 
 .btn-outline-danger:hover {
   background-color: #aa8d5d;
   border-color: #aa8d5d;
+}
+
+.form-control {
+  font-family: "Goblin One", cursive;
+  font-stretch: expanded;
 }

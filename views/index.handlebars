@@ -8,7 +8,7 @@
 <div class="container">
   <div class="row">
     <div class="col-md">
-      <h2>Burgers to Eat!</h2>
+      <h2 class="text-center">Burgers to Eat!</h2>
       <ul class="list-group">
         {{#each burger}}
         {{#unless devoured}}
@@ -18,7 +18,7 @@
       </ul>
     </div>
     <div class="col-md">
-      <h2>Devoured Burgers!</h2>
+      <h2 class="text-center">Devoured Burgers!</h2>
       <ul>
         {{#each burger}}
         {{#if devoured}}
@@ -29,7 +29,7 @@
     </div>
   </div>
   <div class="row justify-content-md-center">
-    <div class="col-md-6 text-center">
+    <div class="col-md-6 text-center pt-3">
       <h2>Add a Burger</h2>
       <form class="create-form">
         <div class="form-group">
